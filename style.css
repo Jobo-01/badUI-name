@@ -1,0 +1,52 @@
+﻿body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0px 5% 0px;
+}
+
+#main {
+    border: 5px double white;
+    padding: 20px;
+    height: 280px;
+}
+
+.letter {
+    visibility: hidden;
+    margin: 0%;
+}
+
+#length_name {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+}
+
+#nameText {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#firstName {
+    margin: auto;
+    margin-top: 20px;
+    padding: 0px;
+}
+
+#continue_button {
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    padding: 10px 40px;
+    background-color: black;
+    color: white;
+    border: 3px double white;
+    font-size: 18px;
+    cursor: grab;
+}
+
